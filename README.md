@@ -5,4 +5,4 @@ Transfer Learning: Having the preordained model which is ResNet trained on Image
 We have freeze the initial 130 layers and made the rest of the layer trainable on the deepfake dataset.
 Test accuracy of 92.424%. 
 
-![alt text](/2022-12-20 (1).png)
+[alt text](/2022-12-20 (1).png)
